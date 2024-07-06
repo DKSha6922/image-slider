@@ -3,14 +3,29 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>Image-Slider</title>
 
     <!-- TailwindCSS -->
     <link rel="stylesheet" href="./assets/css/index.css" />
   </head>
   <body>
-    <!-- Write your HTML here -->
-    <div id="app" class="text-3xl font-bold">Hello Vite HTML & Tailwind!</div>
+    <div class="content-center w-[90vh] h-[90vh] bg-slate-600 m-10 rounded">
+      <div class="flex items-center justify-between m-3">
+        <button id="left" class="bg-black text-white rounded-sm px-2 py-1">
+          left
+        </button>
+        <div id="container" class="text-white text-3xl">
+          <span>1</span>
+          <span>2</span>
+          <span>3</span>
+          <span>4</span>
+          <span>5</span>
+        </div>
+        <button id="right" class="bg-black text-white rounded-sm px-2 py-1">
+          right
+        </button>
+      </div>
+    </div>
     <script type="module" src="./assets/js/main.js"></script>
   </body>
 </html>
