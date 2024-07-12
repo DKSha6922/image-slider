@@ -1,5 +1,5 @@
 let count = 0;
-const intervalTime = 2000;
+const intervalTime = 3000;
 
 const leftBtn = document.getElementById("left");
 const rightBtn = document.getElementById("right");
