@@ -1,45 +1,12 @@
 # Image Slider
 
-Write app description in detail!
 
-
-
-### Build
-
-To build the App, run
-
-```bash
-npm run build
-```
-
-And you will see the generated file in `dist` that ready to be served.
-
-### Preview
-
-To preview the build files, run
-
-```bash
-npm run preview
-```
-
-### Deployment
-
-- Go to repository `Setting`.
-
-<a href="https://ibb.co/kHZLHrC"><img src="https://i.ibb.co/r79B7Lr/Screenshot-2024-01-14-235556.png" alt="Screenshot-2024-01-14-235556" border="0"></a>
-
-- Select `Pages`.
-
-<a href="https://ibb.co/GpjWqWt"><img src="https://i.ibb.co/g9CSxSP/Screenshot-2024-01-14-235801.png" alt="Screenshot-2024-01-14-235801" border="0"></a>
-
-- Select `GitHub Actions` under `Build and Deployment`.
-
-<a href="https://ibb.co/jJc7t1G"><img src="https://i.ibb.co/phtCq9Z/Screenshot-2024-01-14-235908.png" alt="Screenshot-2024-01-14-235908" border="0"></a>
+The image slider app is a sleek, responsive web application built using HTML, TailwindCSS, and JavaScript. The app features a dynamic carousel that allows users to navigate through images with smooth transitions. TailwindCSS ensures a modern, mobile-friendly design with utility-first styling. JavaScript powers the interactive elements, enabling seamless sliding functionality and controls such as next, previous, and auto-slide. The app is optimized for performance and provides an intuitive user experience. Ideal for showcasing portfolios, products, or any image gallery, the image slider app combines aesthetic appeal with practical usability.
 
 #### LICENSE: [MIT](./LICENSE)
 
-#### Authors:
+#### Author:
 
-- [Anbuselvan Rocky](https://fb.me/anburocky3)
-
-[![Deploy to GH Pages](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/vite-html-tailwind/actions/workflows/deploy.yml)
+- [Mohammed Shafi_linkedin](https://www.linkedin.com/in/mohammed-shafi-7b578923b/)
+- [DKSha 6922_github](https://github.com/DKSha6922)
+- [Mohammed Shafi_twitter](https://x.com/mhdshafi6922)
